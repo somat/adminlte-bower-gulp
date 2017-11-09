@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Akhmat Safrudin <somat@artikulpi.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "admin-lte": "^2.4.2",
+    "html5shiv": "^3.7.3"
+  }
+}
